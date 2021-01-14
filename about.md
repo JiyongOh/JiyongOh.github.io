@@ -5,7 +5,6 @@ permalink: /about/
 ---
 
 # Jiyong Oh (오지용)
-* * *
 
 Senior Researcher,  
 Smart Vehicle Section,  
@@ -13,8 +12,9 @@ Daegu-Gyeongbuk Research Center,
 Electronics and Telecommunications Research Institute (ETRI).  
 Address: 1, Techno sunwhan-ro 10-gil, Yuga-eup, Dalseong-gun, Daegu, 42994, Korea.  
 
-## Career
 ***
+
+## Career
 
 ### Research
 * 2015.03.15-2016.05.31, BK Assistant Professor (Research Fellow), Seoul National University, Korea.
@@ -25,23 +25,24 @@ Address: 1, Techno sunwhan-ro 10-gil, Yuga-eup, Dalseong-gun, Daegu, 42994, Kore
 ### Lecture
 * 2015.09.-2015.12., Special Issues on Mobile Systems, Dankook University, Korea.
 
+*** 
 
 ## Education
-*****
-
 * 2006.03.01-2012.02.24, Ph.D., Seoul National University.
 * 2004.03.01-2006.02.24, M.S., Seoul National University.
 * 1997.03.01-2004.02.20, B.S., Ajou University.
 * 1994.03.02-1997.02.05, Anyang High-School.
 
+***
 
 ## Research Interests
 * Object Tracking, Object Detection, 
 * Robot Vision, Perception for Robotics,
 * Pattern Recognition, Machine Learning, Computer Vision, etc.
 
+*** 
+
 ## Publications
----
 
 ### International Journals
 * Jiyong Oh, Sung Joon Son, Sangkuk Lee, Ji-Won Kwon, and Nojun Kwak, "Online recognition of handwritten music symbols," International Journal on Document Analysis and Recognition, vol. 20, issue 2, pp. 79-89, June 2017.
@@ -84,6 +85,8 @@ Address: 1, Techno sunwhan-ro 10-gil, Yuga-eup, Dalseong-gun, Daegu, 42994, Kore
 ### Thesis
 * Jiyong Oh, "Designing a System to Locate the Reference Point of Symphysis Pubis in Axial CT Images," Ph.D. Thesis, Seoul National University, Feb. 2012.
 * 오지용, "Modified LDA를 사용한 얼굴 정렬 (Face Alignment Using Modified LDA)", M.S. Thesis, Seoul National University, Feb. 2006.
+
+*** 
 
 ## Research Projects (Project Director)
 * Pedestrian Detection Robust to Low Resolution and Occlusion, 50,000,000 Won/year, National Research Foundation of Korea, 2015.11.-2016.05.
