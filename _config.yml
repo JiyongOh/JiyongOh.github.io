@@ -1,8 +1,8 @@
 title: Jiyong Oh
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
+description: Jiyong Oh's Blog
 author: Jiyong Oh
 avatar: /오지용_2.jpg
-email: jiyongoh@gmail.com
+email: jiyongoh@gmail.com, jiyongoh@etri.re.kr
 
 plugins:
   - jekyll-seo-tag
