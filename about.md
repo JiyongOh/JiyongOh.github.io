@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 # Jiyong Oh (오지용)
+* * *
 
 Senior Researcher,  
 Smart Vehicle Section,  
@@ -13,6 +14,7 @@ Electronics and Telecommunications Research Institute (ETRI).
 Address: 1, Techno sunwhan-ro 10-gil, Yuga-eup, Dalseong-gun, Daegu, 42994, Korea.  
 
 ## Career
+***
 
 ### Research
 * 2015.03.15-2016.05.31, BK Assistant Professor (Research Fellow), Seoul National University, Korea.
@@ -25,11 +27,13 @@ Address: 1, Techno sunwhan-ro 10-gil, Yuga-eup, Dalseong-gun, Daegu, 42994, Kore
 
 
 ## Education
+*****
 
 * 2006.03.01-2012.02.24, Ph.D., Seoul National University.
 * 2004.03.01-2006.02.24, M.S., Seoul National University.
 * 1997.03.01-2004.02.20, B.S., Ajou University.
 * 1994.03.02-1997.02.05, Anyang High-School.
+
 
 ## Research Interests
 * Object Tracking, Object Detection, 
@@ -37,6 +41,7 @@ Address: 1, Techno sunwhan-ro 10-gil, Yuga-eup, Dalseong-gun, Daegu, 42994, Kore
 * Pattern Recognition, Machine Learning, Computer Vision, etc.
 
 ## Publications
+---
 
 ### International Journals
 * Jiyong Oh, Sung Joon Son, Sangkuk Lee, Ji-Won Kwon, and Nojun Kwak, "Online recognition of handwritten music symbols," International Journal on Document Analysis and Recognition, vol. 20, issue 2, pp. 79-89, June 2017.
