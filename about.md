@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-Jiyong Oh
+Jiyong Oh (오지용)
 
 Senior Researcher,  
 Smart Vehicle Section,  
