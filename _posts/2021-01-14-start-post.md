@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-Post starts today.
+Post starts today and about page is written.
 
 <!--
 Jekyll also offers powerful support for code snippets:
