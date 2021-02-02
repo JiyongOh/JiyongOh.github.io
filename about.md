@@ -68,6 +68,7 @@ Address: 1, Techno sunwhan-ro 10-gil, Yuga-eup, Dalseong-gun, Daegu, 42994, Kore
 * Sanghyun Kim, Mingon Kim, Jimin Lee, Soonwook Hwang, Joonbo Chae, Beomyeong Park, Hyunbum Cho, Jaehoon Sim, Jaesug Jung, Hosang Lee, Seho Shin, Minsung Kim, Wonje Choi, Yisoo Lee, Sumin Park, Jiyong Oh, Yongjin Lee, Sangkuk Lee, Myunggi Lee, Sangyup Yi, Kyong-Sok K.C. Chang, Nojun Kwak, and Jaeheung Park, "Team SNU's Control Strategies for Enhancing Robots Capability: Lessons from the DARPA Robotics Challenge Finals 2015," in The DARPA Robotics Challenge Finals: Humanoid Robots To The Rescue, M. Spenko, S. Buerger, and K. Iagnemma Eds., Springer International Publishing, 2018, pp. 347-379.
 
 ### Domestic Conferences
+* 차대웅, 유민우, 정소희, 한동석, 오지용, "CNN 기반의 FMCW 레이다 신호 분류", 2021년도 한국통신학회 동계종합학술발표회, 2021. 2. 4 (3-5).
 * 손찬영, 이혜민, 이준구, 오지용, "심층 신경망 기반 추적기를 사용한 사용자 추종 로봇", 제1회 한국 인공지능 학술대회, 2020. 12. 17 (16-18).
 권우경, 오지용, 최상준, 신만수, "다중 센서를 이용한 무인 이동 로봇에 대한 관측기 기반 제어 기법", 제15회 한국로봇종합학술대회, 2020. 8. 18 (17-19).
 * 손찬영, 오지용, 정윤수, "위상학적 지도를 위한 어노테이션 도구 개발", 한국통신학회 2020년도 하계종합학술대회, 2020. 8. 13 (12-14).
